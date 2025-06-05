@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 𝓗1𝓧</h1>
 <h3 align="center">Im passionate about cybersecurity (pentesting) and development :D</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=h1xdev&label=Profile%20views&color=0e75b6&style=flat" alt="h1xdev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=h1xdev&label=Profile%20views&color=0e75b6&style=flat" alt="h1xdev" /> </p>
 
 - 🌱 I’m currently learning **Python, C# and cracking !**
 
