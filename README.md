@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=h1xdev&label=Profile%20views&color=0e75b6&style=flat" alt="h1xdev" /> </p>
 
-- 🌱 I’m currently learning **Python, C# and cracking !**
+- 🌱 I’m currently learning **Python, C++ (after python) and pentesting !**
 
 - 👨‍💻 All of my projects are available at [https://github.com/H1xdev (here haha)](https://github.com/H1xdev (here haha))
 
