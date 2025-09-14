@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/H1xdev (here haha)](https://github.com/H1xdev (here haha))
 
-- 📫 How to reach me : **h1xdev** on discord !
+- 📫 How to reach me : **bgxn** on discord !
 
 <h3 align="left">Languages im currently learning :</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
