@@ -1,13 +1,56 @@
-<h1 align="center">Hi 👋, I'm 𝐇𝟏𝐗</h1>
-<h3 align="center">Im passionate about cybersecurity (pentesting) and development :D</h3>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=h1xdev&label=Profile%20views&color=0e75b6&style=flat" alt="h1xdev" /> </p>
+###
 
-- 🌱 I’m currently learning **Python, C++ (after python) and pentesting !**
+<div align="center">
+  <a href="https://paypal.me/H1xdev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
+  </a>
+  <a href="https://x.com/H1xdev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/H1xdev (here haha)](https://github.com/H1xdev (here haha))
+###
 
-- 📫 How to reach me : **bgxn** on discord !
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=H1xdev.H1xdev&"  />
+</div>
 
-<h3 align="left">Languages im currently learning :</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
+
+<h1 align="center">Hello 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm 𝐇𝟏𝐗<br><br>- 📚 I'm currently learning Python<br>- ❤️ I'm passionate about Cybersecurity and programmation !</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=H1xdev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
